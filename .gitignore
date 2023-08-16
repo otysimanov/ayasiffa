@@ -1,0 +1,6 @@
+.vercel
+.git
+myenv
+myproject.sock
+__pycache__
+backend/__pycache__
